@@ -74,3 +74,7 @@ if solver.check() == sat:
         print(f"{var}: {model[var]}")
 else:
     print("No solution found")
+```
+I made this project to learn z3 solver.Modifying this code we can solve any cryptoarithmatic problems.
+I gotta know about cryptoarithmatic problem by "problem solving technique book"
+this is also studied in AI subject of engineering 
